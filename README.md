@@ -52,4 +52,4 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=fr0st1kk
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fr0st1kk&theme=dark&background=000000)](https://git.io/streak-stats)
