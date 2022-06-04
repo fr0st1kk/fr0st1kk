@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=appveyor&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=appveyor&logo=email&logoColor=white" alt="Gmail Badge"/>
 </div>
 
 <!--
