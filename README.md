@@ -30,3 +30,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :zap: In my free time, I solve problems on Learn JavaScript and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://www.instagram.com/biriukov_94/"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
+
+---
+
+:hammer_and_wrench: Languages and Tools :
