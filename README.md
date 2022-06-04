@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VVOeS3aglQLSnVSOg9/giphy.gif" width="400"/>
 </div>
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
 
 <!--
 **fr0st1kk/fr0st1kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
