@@ -30,7 +30,11 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :zap: In my free time, I solve problems on Learn JavaScript and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://www.instagram.com/biriukov_94/"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
-- <div>
+
+---
+
+:hammer_and_wrench: Languages and Tools :
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -48,6 +52,3 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-:hammer_and_wrench: Languages and Tools :
