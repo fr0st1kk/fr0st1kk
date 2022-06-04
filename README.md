@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VVOeS3aglQLSnVSOg9/giphy.gif" width="400"/>
 </div>
-<div id="badges" <img src="https://komarev.com/ghpvc/?username=fr0st1kk&style=flat-square&color=blue" alt=""/> align="center">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   <img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=fr0st1kk&style=flat-square&color=blue" alt=""/>
 
 <!--
 **fr0st1kk/fr0st1kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
