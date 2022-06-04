@@ -4,7 +4,7 @@
 <div id="badges" align="center">
   <a href="https://vk.com/biriukov94"><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/></a>
   <a href="https://www.instagram.com/biriukov_94/"><img src="https://img.shields.io/badge/Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/brk94/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 <div id="counter" align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=fr0st1kk&style=flat-square&color=blue" alt=""/>
