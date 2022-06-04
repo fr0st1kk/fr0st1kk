@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VVOeS3aglQLSnVSOg9/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/VVOeS3aglQLSnVSOg9/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
