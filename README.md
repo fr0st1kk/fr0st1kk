@@ -4,7 +4,7 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-#B94ECD?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 
 <!--
